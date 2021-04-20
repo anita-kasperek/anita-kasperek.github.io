@@ -1,0 +1,42 @@
+remote_theme: eliottvincent/bay
+
+header:
+  pages:
+    - name: O mnie
+      slug: /
+    - name: Portfolio
+    - name: Cv
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: anitakasperekux@gmail.com
+      link: anitakasperekux@gmail.com
+    - name: WeChat
+      value: + 48 728031964 
+      link: "#"
+  follow:
+    - name: Twitter
+      link: http://twitter.com/anita_kasperek
+      username: "@anita_kasperek"
+    - name: GitHub
+      link: http://github.com/anitakasperekUX
+    - name: LinkedIn
+      link: http://linkedin.com/in/anita-kasperek/
+    - name: Dribbble
+      link: https://dribbble.com/anita_kasperek
+
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+plugins:
+  - jemoji
+  
+# Used for defeating caching
+version: 1
