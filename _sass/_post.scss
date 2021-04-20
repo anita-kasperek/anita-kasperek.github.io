@@ -2,10 +2,7 @@
   margin-bottom: $spacing-unit;
 }
 
-.post-title {
-  font-size: 14px;
-  letter-spacing: -1px;
-  line-height: 1.7;
+
 
   font-family: $base-font-family;
 
@@ -14,15 +11,7 @@
   }
 }
 
-.post-subtitle {
-  font-size: 26px;
-  letter-spacing: -1px;
-  line-height: 1;
-  color: #777;
-  font-family: $base-font-family;
-  font-style: oblique;
-  position: relative;
-  top: -0.3em;
+
 
   @include media-query($on-mobile) {
     font-size: 24px;
