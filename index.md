@@ -12,7 +12,7 @@ You'll find a <a href="https://anitakasperekux.github.io/portfolio">case study</
 <br>If you have a moment to share your insights on what could be improved, I'd love to read any <a href="https://www.linkedin.com/in/anita-kasperek/">message!</a> :envelope:
 
 
-Translated with www.DeepL.com/Translator (free version)
+
  
 
 
