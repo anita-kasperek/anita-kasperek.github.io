@@ -47,8 +47,7 @@ What I had to deal with as a designer
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | -----------------------------------------------------------: |
-| I uploaded the CV on my disk - [Open CV].
-(https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)<br/><br><br><br><br/><br/><br/><br/><br><br><br><br/><br/> | [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Mask%20Group%404x.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/2021_cv_dark%20mode%2012%40.png) |
+| I uploaded the CV on my disk - [Open CV](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)<br/><br><br><br><br/><br/><br/><br/><br><br><br><br/><br/> | [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Mask%20Group%404x.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/2021_cv_dark%20mode%2012%40.png) |
 
 
 
