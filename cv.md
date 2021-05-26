@@ -8,11 +8,11 @@ title: Experience
 I also did some initial consulting with 2 startups on potential development and collaboration opportunities. Previously, I was involved in the architecture industry. Below I've listed experience that may be versatile in many industries.*🙂
 <br><br><br>
 **Business Strategy**.<br>
-➡️ I collaborated in the **supervision** of a private investment; <br>
+➡️ I assisted in the supervision of a private investment; <br>
 ➡️ I participated in the design of the space,**details**;<br>
 ➡️ I was responsible for purchasing, **communicating with contractors**,<br>
 supervising the work and **financial optimization** 💰;<br>
-➡️ The end result,** increased the value** of the investment by at least **28%**;💸<br>
+➡️ The end result,**increased the value** of the investment by at least **28%**;💸<br>
 ➡️ The yearly rate of return, in contrast, is at least **18%**;📈<br>
 <br>
 **Designer**.<br>
