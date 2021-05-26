@@ -16,7 +16,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 
 
-<img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/intro.gif">
+<img src="https://raw.githubusercontent.com/anita-kasperek/anita-kasperek.github.io/main/assets/img/intro.gif">
   
   
 ##### Podstawowe informacje    
@@ -59,7 +59,7 @@ Taki sposób, może potencjalnie obniżyć ilość błędów, zapobiec negatywny
 
 #### Podsumowanie - Design 
 
-[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/3%20Slajd.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/3%20Slajd.png)
+[![image-text markdown="1"](https://raw.githubusercontent.com/anita-kasperek/anita-kasperek.github.io/main/assets/img/3%20Slajd.png)](https://raw.githubusercontent.com/anita-kasperek/anita-kasperek.github.io/main/assets/img/3%20Slajd.png)
 
 
 
