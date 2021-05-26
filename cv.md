@@ -41,7 +41,7 @@ I contacted contractors, and it was my job to keep an eye on deadlines; 🗓️<
 their overall experience, product quality and service;
 ➡️ Often work was under time pressure with unpredictable situations;<br>
 <br>
-# RESUME<br>
+# CV<br>
 *RESUME
 Clicking on the image below will open my resume made in Figma.* 
 
