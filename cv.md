@@ -1,28 +1,34 @@
 ---
 layout: o-mnie
-title: Doświadczenie
+title: Experience
 ---
- **Doświadczenie**
+**Experience**.
 <br>
-_Moje doświadczenie w dziedzinie UX obejmuje na razie projekty niekomercyjne. <br> Prowadziłam także wstępne konsultacje z 2 startupami na temat możliwości potencjalnego rozwoju i współpracy.
-Poprzednio byłam związana z branżą architektoniczną. Poniżej wypisałam doświadczenia, które mogą są uniwersalne w wielu branżach._🙂
+*My UX experience so far includes non-commercial projects.
+I also did some initial consulting with 2 startups on potential development and collaboration opportunities. Previously, I was involved in the architecture industry. Below I've listed experience that may be versatile in many industries.*🙂
 <br><br><br>
-**Strategia Biznesowa**
+**Business Strategy**.
+➡️ I collaborated in the **supervision** of a private investment;
+➡️ I participated in the design of the space,**details**;
+➡️ I was responsible for purchasing, **communicating with contractors**,
+supervising the work and **financial optimization** 💰;
+➡️ The end result,** increased the value** of the investment by at least **28%**;💸
+➡️ The yearly rate of return, in contrast, is at least **18%**;📈
 <br>
-➡️ Współpracowałam w **nadzorowaniu** prywatnej inwestycji;<br>
-➡️ Brałam udział w projektowaniu przestrzeni,**detali**; <br>
-➡️ Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**,<br> nadzorowanie prac i **optymalizację finansową** 💰;<br>
-➡️ Końcowy efekt,**zwiększył wartość**  inwestycji o conajmniej **28%**;💸<br>
-➡️ Roczna stopa zwrotu wynosi natomiast conajmniej **18%**;📈<br>
+**Designer**.
+In this position, I was exposed to:
+➡️ a **creative** way of working that involved looking for and **seeking for solutions**.
+**the latest technical developments 💡 💡 ➡️
+➡️ **Translating** the investor's **expectations**, and sometimes the needs of **future users**, into design proposals;
+➡️ **Iterative process** that was based on feedback; 💬
+➡️ Specific **detail focus**, development of design and drafting documentations; ✍️
+➡️ Working with various tools and **programs**,
+
+**Experience - Marketing**.
+➡️ I participated in **preparing materials** for potential clients; 🖨️
+➡️ I was responsible for printing materials,
+I contacted contractors, and it was my job to keep an eye on deadlines; 🗓️
 <br>
-**Projektant**
-<br>
-Na tym stanowisku, miałam do czynienia z:<br>
-➡️ **kreatywnym** sposobem pracy,który polegał na poszukiwaniu i **inspirowaniu się** <br> **najnowszymi rozwiązaniami** technicznymi; 💡<br>
-➡️ **Tłumaczeniem** **wytycznych** inwestora, oraz niekiedy potrzeb **przyszłych użytkowników**, na propozycje projektowe;<br>
-➡️ **Iteracyjnym procesem**, który bazował na feedbacku; 💬<br>
-➡️ Szczególną **dbałością o detale**, opracowywaniem dokumentacji projektowej i rysunkowej; ✍️<br>
-➡️ Pracą za pomocą różnych narzędzi i **programów**,<br>
 <br>
 **Doświadczenie - Marketing**<br>
 ➡️ Brałam udział w **przygotowywaniu materiałów** dla potencjalnych klientów; 🖨️<br>
