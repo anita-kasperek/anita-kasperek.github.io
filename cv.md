@@ -36,7 +36,7 @@ Na tym stanowisku, miałam do czynienia z:<br>
 # CV<br>
 *Klikając w poniższy obraz, otworzysz moje CV wykonane w Figmie.* 
 
-[![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/cv2.png)](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&viewport=37%2C153%2C0.14476820826530457&scaling=min-zoom&page-id=71%3A0) <br>
+[![image-text](https://raw.githubusercontent.com/anita-kasperek/anita-kasperek.github.io/main/assets/img/cv2.png)](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&viewport=37%2C153%2C0.14476820826530457&scaling=min-zoom&page-id=71%3A0) <br>
 Gdybyś z jakiś względów potrzebował [pobrać moje CV](https://drive.google.com/file/d/1W6nUgriiwFOnTJuuJIHW96vZAtRwVlm_/view?usp=sharing),
 udostępniłam go na dysku Google. 
 
