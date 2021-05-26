@@ -8,26 +8,26 @@ title: Experience
 I also did some initial consulting with 2 startups on potential development and collaboration opportunities. Previously, I was involved in the architecture industry. Below I've listed experience that may be versatile in many industries.*🙂
 <br><br><br>
 **Business Strategy**.
-➡️ I collaborated in the **supervision** of a private investment;
-➡️ I participated in the design of the space,**details**;
-➡️ I was responsible for purchasing, **communicating with contractors**,
-supervising the work and **financial optimization** 💰;
-➡️ The end result,** increased the value** of the investment by at least **28%**;💸
-➡️ The yearly rate of return, in contrast, is at least **18%**;📈
+➡️ I collaborated in the **supervision** of a private investment; <br>
+➡️ I participated in the design of the space,**details**;<br>
+➡️ I was responsible for purchasing, **communicating with contractors**,<br>
+supervising the work and **financial optimization** 💰;<br>
+➡️ The end result,** increased the value** of the investment by at least **28%**;💸<br>
+➡️ The yearly rate of return, in contrast, is at least **18%**;📈<br>
 <br>
-**Designer**.
-In this position, I was exposed to:
-➡️ a **creative** way of working that involved looking for and **seeking for solutions**.
-**the latest technical developments 💡 💡 ➡️
-➡️ **Translating** the investor's **expectations**, and sometimes the needs of **future users**, into design proposals;
-➡️ **Iterative process** that was based on feedback; 💬
-➡️ Specific **detail focus**, development of design and drafting documentations; ✍️
-➡️ Working with various tools and **programs**,
+**Designer**.<br>
+In this position, I was exposed to:<br>
+➡️ a **creative** way of working that involved looking for and **seeking for solutions**.<br>
+**the latest technical developments 💡 💡 ➡️<br>
+➡️ **Translating** the investor's **expectations**, and sometimes the needs of **future users**, into design proposals;<br>
+➡️ **Iterative process** that was based on feedback; 💬<br>
+➡️ Specific **detail focus**, development of design and drafting documentations; ✍️<br>
+➡️ Working with various tools and **programs**,<br>
 
-**Experience - Marketing**.
-➡️ I participated in **preparing materials** for potential clients; 🖨️
-➡️ I was responsible for printing materials,
-I contacted contractors, and it was my job to keep an eye on deadlines; 🗓️
+**Experience - Marketing**.<br>
+➡️ I participated in **preparing materials** for potential clients; 🖨️<br>
+➡️ I was responsible for printing materials,<br>
+I contacted contractors, and it was my job to keep an eye on deadlines; 🗓️<br>
 <br>
 <br>
 **Doświadczenie - Marketing**<br>
