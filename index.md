@@ -9,7 +9,9 @@ profile_picture:
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Miło że wpadłeś! :sparkles: :wave: <br>Jestem entuzjastką UX i Produkt Designu, a ta strona stara się pokazać mój sposób pracy, proces, oraz dotychczasowe doświadczenie.<br><br> Znajdziesz w nim <a href="https://anita-kasperek.github.io/portfolio">analizę przypadku</a>, kontakt do mnie, poprzez portale takie jak [Linkedin](https://www.linkedin.com/in/anita-kasperek/), oraz moje <a href="https://drive.google.com/drive/folders/1xgnFojJ_J6wicAkPbaV662YhJ7KLHCxb?usp=sharing">cv</a>.<br><br>Jako projektant, ważne są dla mnie aspekty użyteczności, skuteczności, optymalizacji i wyciągania potencjału.<br><br>Prywatnie jestem miłośniczką azjatyckiej kuchni, szeroko rozumianego "craftingu" i domowej dżungli.🌿 | <img  src="https://raw.githubusercontent.com/anita-kasperek/anita-kasperek.github.io/main/assets/img/profile%20pic.jpg" style="zoom:50%;" /> |
+| Thanks for stopping by! :sparkles: :wave: <br>I'm a UX and Product Design enthusiast, and this site tries to demonstrate my approach, process, and experience.<br><br> You can find here a <a href="https://anita-kasperek.github.io/portfolio">case study</a>, Contact [Linkedin](https://www.linkedin.com/in/anita-kasperek/), and my <a href="https://drive.google.com/drive/folders/1xgnFojJ_J6wicAkPbaV662YhJ7KLHCxb?usp=sharing">cv</a>.<br><br>As a designer, aspects of usability, efficiency, optimization, and pulling potentials are important to me.
+
+<br><br>privately, I'm a huge fan of Asian cuisine, crafting in the broad sense and the indoor jungle.🌿 | <img  src="https://raw.githubusercontent.com/anita-kasperek/anita-kasperek.github.io/main/assets/img/profile%20pic.jpg" style="zoom:50%;" /> |
 
 
 
