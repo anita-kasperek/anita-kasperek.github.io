@@ -7,7 +7,7 @@ title: Experience
 *My UX experience so far includes non-commercial projects.
 I also did some initial consulting with 2 startups on potential development and collaboration opportunities. Previously, I was involved in the architecture industry. Below I've listed experience that may be versatile in many industries.*🙂
 <br><br><br>
-**Business Strategy**.
+**Business Strategy**.<br>
 ➡️ I collaborated in the **supervision** of a private investment; <br>
 ➡️ I participated in the design of the space,**details**;<br>
 ➡️ I was responsible for purchasing, **communicating with contractors**,<br>
@@ -29,16 +29,10 @@ In this position, I was exposed to:<br>
 ➡️ I was responsible for printing materials,<br>
 I contacted contractors, and it was my job to keep an eye on deadlines; 🗓️<br>
 <br>
-<br>
-**Doświadczenie - Marketing**<br>
-➡️ Brałam udział w **przygotowywaniu materiałów** dla potencjalnych klientów; 🖨️<br>
-➡️ Byłam odpowiedzialna za druk materiałów,<br> kontaktowałam się z wykonawcami, oraz moim zadaniem było pilnowanie terminów; 🗓️<br>
-<br>
-**Customer Service**
-
-➡️ I worked in a multicultural environment;
-➡️ I had direct contact with customers and cared
-their overall experience, product quality and service;
+**Customer Service**<br>
+➡️ I worked in a multicultural environment; <br>
+➡️ I had direct contact with customers and cared; <br>
+their overall experience, product quality and service; <br>
 ➡️ Often work was under time pressure with unpredictable situations;<br>
 <br>
 # CV<br>
