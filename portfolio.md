@@ -49,7 +49,7 @@ Prototyp powstał na bazie istniejącej aplikacji, którą odtworzyłam w Figmie
 <br>
 ##### Prototyp wskazówek wizualnych - Framer 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/embed/Aplikacja-Allegro--nLpeYBWMzKAC0WOM3iV5/jVLHmIuWFpLtIeJhqjv1O7-5%3A2430jrrgncicoig" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/share/Aplikacja-Allegro--nLpeYBWMzKAC0WOM3iV5/JeyD5oxL9" allowfullscreen></iframe>
 <br>
 
 <b>Korzyści</b>
