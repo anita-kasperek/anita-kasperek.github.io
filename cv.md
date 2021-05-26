@@ -34,16 +34,19 @@ I contacted contractors, and it was my job to keep an eye on deadlines; 🗓️
 ➡️ Brałam udział w **przygotowywaniu materiałów** dla potencjalnych klientów; 🖨️<br>
 ➡️ Byłam odpowiedzialna za druk materiałów,<br> kontaktowałam się z wykonawcami, oraz moim zadaniem było pilnowanie terminów; 🗓️<br>
 <br>
-**Customer Service**<br>
-➡️ Pracowałam w **wielokulturowym** środowisku;<br>
-➡️ Miałam **bezpośredni kontakt** z klientem i dbałam <br> o jego całościowe doświadczenie, **jakość produktów** i usług;<br>
-➡️ Często praca była pod **presją czasu**, z nieprzewidywalnymi sytuacjami;<br>
+**Customer Service**
+
+➡️ I worked in a multicultural environment;
+➡️ I had direct contact with customers and cared
+their overall experience, product quality and service;
+➡️ Often work was under time pressure with unpredictable situations;<br>
 <br>
-# CV<br>
-*Klikając w poniższy obraz, otworzysz moje CV wykonane w Figmie.* 
+# RESUME<br>
+*RESUME
+Clicking on the image below will open my resume made in Figma.* 
 
 [![image-text](https://raw.githubusercontent.com/anita-kasperek/anita-kasperek.github.io/main/assets/img/cv2.png)](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&viewport=37%2C153%2C0.14476820826530457&scaling=min-zoom&page-id=71%3A0) <br>
-Gdybyś z jakiś względów potrzebował [pobrać moje CV](https://drive.google.com/file/d/1W6nUgriiwFOnTJuuJIHW96vZAtRwVlm_/view?usp=sharing),
-udostępniłam go na dysku Google. 
+If for some reason you would need to [download my resume](https://drive.google.com/file/d/1W6nUgriiwFOnTJuuJIHW96vZAtRwVlm_/view?usp=sharing),
+I have made it available on Google Drive. 
 
 
