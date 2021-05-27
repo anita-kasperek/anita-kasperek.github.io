@@ -18,9 +18,8 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 <img src="https://raw.githubusercontent.com/anita-kasperek/anita-kasperek.github.io/main/assets/img/intro.jpg">
   
-  
+  <br>
 ##### Overview   
-
 |                 |                                                              |
 | :-------------- | ------------------------------------------------------------ |
 | **What:**       | Design Exercise                                              |
