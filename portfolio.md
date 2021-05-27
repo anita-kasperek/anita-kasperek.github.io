@@ -52,7 +52,7 @@ The prototype was based on an existing application, which I recreated in Figma w
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/share/Aplikacja-Allegro--nLpeYBWMzKAC0WOM3iV5/JeyD5oxL9" allowfullscreen></iframe>
 <br>
 
-<b>Impact</b>
+<b>Impact</b><br>
 This way, can potentially reduce errors, prevent negative user experience and inspire more trust, speed up conversions, give the user control. 
 
 <br>
