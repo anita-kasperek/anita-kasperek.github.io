@@ -34,7 +34,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 
 ##### Presentation of comprehensive case study analysis - Figma 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fv5nNqOrr7sCerWJbVeQzbk%2FProces-Case-Study%3Fnode-id%3D260%253A2197%26viewport%3D102%252C299%252C0.06469961255788803%26scaling%3Dscale-down%26page-id%3D260%253A2194" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="640" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fv5nNqOrr7sCerWJbVeQzbk%2FProces-Case-Study%3Fnode-id%3D260%253A2197%26viewport%3D102%252C299%252C0.06469961255788803%26scaling%3Dscale-down%26page-id%3D260%253A2194" allowfullscreen></iframe>
 
 
 <br>
