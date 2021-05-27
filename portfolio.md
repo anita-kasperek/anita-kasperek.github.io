@@ -27,7 +27,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 | **What:**       | Design Exercise                                              |
 | **Timeframe:**  | April - May, 2021                                            |
 | **Tools:**      | Paper and Pen, Printer, Typora, Figma, Github, Framer        |
-| **Process:**    | Design Thinking                                             |
+| **Process:**    | Design Thinking                                              |
 | **Methods:**    | Observations, Interviews, User Flow, Heuristics, Persona, Mental Model, Competitive Analysis, Opportunity Sketches, Affinity Mapping Wireframes, Prototype |
 
 <br>
