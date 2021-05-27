@@ -31,6 +31,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 | **Methods:**    | Observations, Interviews, User Flow, Heuristics, Persona, Mental Model, Competitive Analysis, Opportunity Sketches, Affinity Mapping Wireframes, Prototype |
 
 <br>
+<br>
 
 
 ##### Presentation of comprehensive case study analysis - Figma 
