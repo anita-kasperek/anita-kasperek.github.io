@@ -21,7 +21,6 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
   
 ##### Overview   
 
-
 |                 |                                                              |
 | :-------------- | ------------------------------------------------------------ |
 | **What:**       | Design Exercise                                              |
