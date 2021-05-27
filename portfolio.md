@@ -49,7 +49,7 @@ The prototype was based on an existing application, which I recreated in Figma w
 <br>
 ##### Visual cues prototype - Framer 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/embed/Allegro-App--nLpeYBWMzKAC0WOM3iV5/JeyD5oxL9" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FwjZUvUeYTwzHNqeX4HaNWF%2FPresentation-App-Allegro-Case-Study%3Fnode-id%3D1%253A9%26viewport%3D394%252C303%252C0.05056169629096985%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
 
 <b>Impact</b><br>
 This way, can potentially reduce errors, prevent negative user experience and inspire more trust, speed up conversions, give the user control. 
