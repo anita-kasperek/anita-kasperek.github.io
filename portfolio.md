@@ -47,7 +47,7 @@ This is a proposal of visual clues.
 The prototype was based on an existing application, which I recreated in Figma with designed new elements. I imported the project into Framer and completed the interactions.
 
 <br>
-##### Visual cues prototype - Framer 
+##### Prototype of visual cues in Original language - Framer
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/embed/Allegro-App--nLpeYBWMzKAC0WOM3iV5/JeyD5oxL9" allowfullscreen></iframe>
 
